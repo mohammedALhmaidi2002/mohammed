@@ -1,0 +1,55 @@
+{
+    "app_name": "FitLife",
+    "welcome_message": "Welcome to FitLife! Your journey to fitness starts here.",
+    "navigation": {
+        "home": "Home",
+        "about": "About Us",
+        "contact": "Contact Us",
+        "login": "Login",
+        "register": "Register",
+        "logout": "Logout",
+        "profile": "Profile",
+        "dashboard": "Dashboard",
+        "ideal_weight_calculator": "Ideal Weight Calculator",
+        "calorie_calculator": "Calorie Calculator",
+        "diet_plans": "Diet Plans",
+        "exercises": "Exercises"
+    },
+    "buttons": {
+        "submit": "Submit",
+        "calculate": "Calculate",
+        "view_details": "View Details",
+        "print": "Print"
+    },
+    "labels": {
+        "email": "Email Address",
+        "password": "Password",
+        "name": "Name",
+        "age": "Age (years)",
+        "gender": "Gender",
+        "height_cm": "Height (cm)",
+        "weight_kg": "Weight (kg)",
+        "activity_level": "Physical Activity Level",
+        "male": "Male",
+        "female": "Female",
+        "light": "Light",
+        "moderate": "Moderate",
+        "active": "Active",
+        "very_active": "Very Active"
+    },
+    "results": {
+        "ideal_weight": "Suggested Ideal Weight",
+        "healthy_range": "Healthy Weight Range",
+        "status": "Weight Status",
+        "maintenance_calories": "Recommended daily calories to maintain current weight",
+        "loss_calories": "Recommended daily calories for weight loss",
+        "gain_calories": "Recommended daily calories for weight gain",
+        "tips_guidance": "Tips and Guidance"
+    },
+    "general": {
+        "error": "Error",
+        "success": "Success",
+        "note": "Note",
+        "or": "Or"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "app_name": "فيت لايف",
+    "welcome_message": "أهلاً بك في فيت لايف! رحلتك نحو اللياقة تبدأ هنا.",
+    "navigation": {
+        "home": "الرئيسية",
+        "about": "من نحن",
+        "contact": "اتصل بنا",
+        "login": "تسجيل الدخول",
+        "register": "تسجيل جديد",
+        "logout": "تسجيل الخروج",
+        "profile": "الملف الشخصي",
+        "dashboard": "لوحة التحكم",
+        "ideal_weight_calculator": "حاسبة الوزن المثالي",
+        "calorie_calculator": "حاسبة السعرات الحرارية",
+        "diet_plans": "خطط التغذية",
+        "exercises": "التمارين"
+    },
+    "buttons": {
+        "submit": "إرسال",
+        "calculate": "احسب",
+        "view_details": "عرض التفاصيل",
+        "print": "طباعة"
+    },
+    "labels": {
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "name": "الاسم",
+        "age": "العمر (سنوات)",
+        "gender": "الجنس",
+        "height_cm": "الطول (سم)",
+        "weight_kg": "الوزن (كجم)",
+        "activity_level": "مستوى النشاط البدني",
+        "male": "ذكر",
+        "female": "أنثى",
+        "light": "خفيف",
+        "moderate": "متوسط",
+        "active": "نشيط",
+        "very_active": "نشيط جداً"
+    },
+    "results": {
+        "ideal_weight": "الوزن المثالي المقترح",
+        "healthy_range": "نطاق الوزن الصحي",
+        "status": "حالة الوزن",
+        "maintenance_calories": "السعرات الحرارية اليومية الموصى بها للحفاظ على الوزن الحالي",
+        "loss_calories": "السعرات الحرارية اليومية الموصى بها لخسارة الوزن",
+        "gain_calories": "السعرات الحرارية اليومية الموصى بها لزيادة الوزن",
+        "tips_guidance": "نصائح وإرشادات"
+    },
+    "general": {
+        "error": "خطأ",
+        "success": "نجاح",
+        "note": "ملاحظة",
+        "or": "أو"
+    }
+}
