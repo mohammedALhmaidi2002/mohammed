@@ -1,0 +1,25 @@
+/* Custom Global Styles for FitLife */
+
+/* Example: Define body font if not handled by Tailwind in layout or specific font for an element */
+/* body {
+    font-family: 'Inter', sans-serif; /* Ensure Inter is primary if not set in body class of layout */
+/* } */
+
+/* Custom scrollbar (optional, for modern browsers) */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Additional global styles or component-specific styles can go here */
